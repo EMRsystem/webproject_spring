@@ -20,7 +20,8 @@
 º Oracle  
 º Apache Tomcat 9.0  
 º MVC 모델 1  
-º Spring  
+º Spring 
+º STS  
   - jsp  
   - Mybaits
 <br/>
