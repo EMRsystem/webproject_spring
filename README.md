@@ -19,7 +19,7 @@
 # 개발 환경 
 º Oracle  
 º Apache Tomcat 9.0  
-º MVC 모델 1  
+º MVC 모델 
 º Spring  
 º STS  
   - jsp  
@@ -34,5 +34,3 @@
 º Javascript  
 º jQuery  
 º OracleDB  
-
-
